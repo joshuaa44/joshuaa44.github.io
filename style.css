@@ -166,7 +166,7 @@ section .title::after{
     display: flex;
     background: url("banner.jpg") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #000000;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -242,7 +242,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000000;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
