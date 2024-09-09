@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: #0d1a5b;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: #0d1a5b;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -235,7 +235,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: crimson;
+    color: #0d1a5b;
 }
 .about .about-content .right p{
     text-align: justify;
