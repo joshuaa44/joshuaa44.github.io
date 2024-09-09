@@ -11,7 +11,6 @@
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -54,7 +53,7 @@ nav .menu{
   color: black;
 }
 .img{
-  background: url('img3.jpg')no-repeat;
+  background: url('image.jpg')no-repeat;
   width: 100%;
   height: 100vh;
   background-size: cover;
